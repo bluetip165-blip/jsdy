@@ -1,0 +1,9 @@
+{
+  "name": "word-crew-online",
+  "version": "1.0.0",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "type": "module",
+  "scripts": { "start": "node server.js", "check": "node --check server.js && node --check app.js" },
+  "dependencies": { "ws": "^8.18.3" }
+}

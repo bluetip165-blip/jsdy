@@ -1,0 +1,14 @@
+{
+  "id": "/",
+  "name": "다잉 메세지: 소설가의 마지막 문장",
+  "short_name": "다잉 메세지",
+  "description": "친구들과 함께 즐기는 모바일 협력 추리 보드게임",
+  "lang": "ko-KR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#1d2424",
+  "theme_color": "#1d2424",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
